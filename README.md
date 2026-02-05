@@ -29,4 +29,3 @@ NUF:
   jailbird_effect_duration: 4
   jailbird_effect_intensity: 1
 ```
-For any issues, reach out on Discord: **Half__**
